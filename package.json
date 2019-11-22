@@ -1,0 +1,23 @@
+{
+  "name": "audiotest",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "debug": "^2.6.9",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.8.0",
+    "fund": "^1.0.0",
+    "funding": "^1.0.9",
+    "gulp": "^4.0.2",
+    "http-errors": "^1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "^1.9.1",
+    "package-lock.json": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "virtualenv": "^0.3.1"
+  }
+}
